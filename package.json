@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Edwin Montoya",
 	"description": "Acá iniciaremos aprendizaje sobre Backend and APIs",
+	"keywords": [ "APIs", "Backend", "FreeCodeCamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
